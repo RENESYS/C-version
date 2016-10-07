@@ -1,8 +1,7 @@
 # Detect Vulnerable Code of OpenSSL in Binary Level
 
-Undergraduate Researcher at Kookmin University, Seoul, South Korea
+## Undergraduate Researcher at Kookmin University, Seoul, South Korea
 
-======
 
 * Analyzing Heartbleed bug of OpenSSL in Assembly language   
 
