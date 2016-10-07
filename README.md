@@ -1,6 +1,14 @@
-# 2015 Kookmin University UROP Project
+# Detect Vulnerable Code of OpenSSL in Binary Level
 
-Find the vulnerable code about specific open source in execute file 
+Undergraduate Researcher at Kookmin University, Seoul, South Korea
+
+======
+
+* Analyzing Heartbleed bug of OpenSSL in Assembly language   
+
+* Measuring Jaccard similarity of opcode between vulnerable code and OpenSSL application
+
+* Analyzing OpenSSL C code by using Immunity Debugger
 
 ----------
 
